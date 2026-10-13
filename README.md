@@ -69,12 +69,12 @@ A scalable system that tracks API health and performance in near real time.
 - Automated token refresh so monitoring continues uninterrupted when authentication tokens expire
 - Added **role-based access control** to govern mutations on the monitored APIs
 
-[🔗 View project](https://github.com/Saurabh1443/REPLACE-WITH-REPO-NAME)
+[🔗 View project](https://github.com/Saurabh1443/Monitoring_Observability_Platform)
 
 ---
 
 ### 🛒 E-Commerce Platform
-`Python` `Django` `React` `Redux` `PostgreSQL`
+`Node.js` `Express.Js` `React` `Redux` `PostgreSQL`
 
 A full-stack store with product browsing, cart, checkout and order processing, plus separate Admin and Customer panels.
 
@@ -82,7 +82,8 @@ A full-stack store with product browsing, cart, checkout and order processing, p
 - RESTful APIs for the complete order lifecycle, with **pagination** to handle large datasets while keeping data consistent
 - **Razorpay** integration for secure online payments, including order transactions and payment status verification
 
-[🔗 View project](https://github.com/Saurabh1443/REPLACE-WITH-REPO-NAME)
+[🔗 View project Frontend](https://github.com/Saurabh1443/E-commerce-Frontend)
+[🔗 View project Backend](https://github.com/Saurabh1443/E-commerce-Backend)
 
 ---
 
@@ -91,7 +92,7 @@ A full-stack store with product browsing, cart, checkout and order processing, p
 
 A quick-delivery variant of the e-commerce platform, built on the same stack and extended with **Server-Sent Events (SSE)** to push live delivery status updates to customers in real time.
 
-[🔗 View project](https://github.com/Saurabh1443/REPLACE-WITH-REPO-NAME)
+[🔗 View project](https://github.com/Saurabh1443/QuickCommerce)
 
 ---
 
